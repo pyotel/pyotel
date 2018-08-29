@@ -1,0 +1,16 @@
+[user]
+	name = pyotel
+	email = pyotel@gmail.com
+	username = pyotel
+[core]
+	editor=vim
+
+[alias]
+	co=checkout
+	st=status
+	br=branch
+	ci=commit
+	ls=log
+	ll=log -c
+	df=diff
+
