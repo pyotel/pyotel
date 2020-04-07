@@ -1,1 +1,3 @@
 # pyotel
+
+cp ./.gitconfig ~
