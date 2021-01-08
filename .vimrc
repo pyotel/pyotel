@@ -1,6 +1,7 @@
 colo desert
 syntax on
 
+set mouse-=a
 set ai
 set si
 set cindent
