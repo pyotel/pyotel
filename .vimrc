@@ -19,5 +19,6 @@ set tabstop=4
 set softtabstop=4
 set expandtab 
 set ignorecase
+set paste
 
 filetype plugin indent on

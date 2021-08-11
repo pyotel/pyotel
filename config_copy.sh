@@ -1,0 +1,2 @@
+cp ./.gitconfig ~
+cp ./.vimrc ~
