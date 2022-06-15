@@ -10,6 +10,7 @@
 	st=status
 	br=branch
 	ci=commit
+	cim=commit -m update
 	ls=log
 	ll=log -c
 	df=diff
