@@ -1,1 +1,1 @@
-alias da='docker compose'
+alias dc='docker compose'
