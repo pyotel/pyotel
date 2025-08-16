@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run /home/pyotel/.claude/hooks/stop.py"
+          }
+        ]
+      }
+    ]
+  }
+}
