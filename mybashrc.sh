@@ -1,1 +1,5 @@
 alias dc='docker compose'
+alias cc='claude --dangerously-skip-permissions -r '
+alias ccc='claude --dangerously-skip-permissions '
+alias ta='tmux attach -t '
+alias tls='tmux ls'
